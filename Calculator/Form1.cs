@@ -8,6 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 //未解决如何显示全部表达式，未解决-5，开根号的前后顺序问题。
+//未解决显示问题以及根式求解问题
 namespace Calculator
 {
     public partial class Form1 : Form
